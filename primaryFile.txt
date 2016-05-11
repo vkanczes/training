@@ -1,10 +1,12 @@
 this is my first file
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding some new to see if delete if staged
+=======
+>>>>>>> parent of 897504c... rearranged some items
 i need to add something
 =======
 >>>>>>> parent of acf175b... added small
 added some new changes to the file
 
 It comes before all other files
-Needed one more line!
