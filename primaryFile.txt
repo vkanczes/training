@@ -1,6 +1,9 @@
 this is my first file
+<<<<<<< HEAD
 adding some new to see if delete if staged
 i need to add something
+=======
+>>>>>>> parent of acf175b... added small
 added some new changes to the file
 
 It comes before all other files
