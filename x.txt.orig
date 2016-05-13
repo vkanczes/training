@@ -1,8 +1,10 @@
 new file
-adding something esle
+<<<<<<< HEAD
+adding something exle
 adding some more
+=======
 tring to create mess
-new_feature
+>>>>>>> new_feature
 and one more line
 some new stuff
 and yet another
