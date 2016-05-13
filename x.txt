@@ -1,5 +1,7 @@
 new file
 adding some more
+and one more line
+some new stuff
 and yet another
 another change
 I am changing this in the new feature branch
