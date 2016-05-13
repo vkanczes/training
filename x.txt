@@ -1,4 +1,5 @@
 new file
+some new stuff
 and yet another
 another change
 I am changing this in the new feature branch
